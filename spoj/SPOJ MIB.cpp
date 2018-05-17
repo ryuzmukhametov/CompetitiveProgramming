@@ -1,6 +1,5 @@
 /*
-	Usage of segment tree data structure with increasing and extracting 
-	maximum on interval operations allows to solve that problem.
+ * It uses algorithm of getting permutation number with long arithmetic.
 */
 #include <bits/stdc++.h>
 using namespace std;
