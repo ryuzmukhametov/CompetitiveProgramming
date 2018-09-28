@@ -1,3 +1,4 @@
+// http://apps.topcoder.com/wiki/display/tc/SRM+577
 #include <set>
 #include <string.h>
 #include <cstdio>
